@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TsimafeiKakutani
+- 👋 Hi, I’m @Demir
 - 👀 I’m interested in AI/ML researching and Blockchain Web3 Fullstack developer
 - 🌱 I’m currently learning AI/ML.
 - 💞️ I’m looking to collaborate on Web3 jobs
